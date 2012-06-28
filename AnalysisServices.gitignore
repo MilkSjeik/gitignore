@@ -1,6 +1,7 @@
 # Analysis Services project (Visual Studio)
 [Oo]bj
 [Bb]in
+*.user
 
 # OSX/Mac related
 *.DS_Store
