@@ -1,0 +1,8 @@
+# Analysis Services project (Visual Studio)
+[Oo]bj
+[Bb]in
+
+# OSX/Mac related
+*.DS_Store
+# Windows related
+[Tt]humbs.db
